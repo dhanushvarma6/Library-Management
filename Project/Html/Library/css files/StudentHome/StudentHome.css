@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    margin: 0;
+  }
+  .Vitlogo{
+      width: 250px;
+  }
+  header{
+      display: flex;
+      justify-content: space-between;
+      background: #2e3191;
+  }
+
+  .left-sidebar{
+      background: rgb(110, 102, 102);
+      width: 18%;
+      padding: 0;
+      margin: 0;
+  }
+  aside{
+    color: black;
+  }
